@@ -1,19 +1,17 @@
-### سلام به همه :)
-امروز برای یکی از پروژه هام یک کد جاوااسکریپت نوشتم و گفتم شاید بدرد کسی بخوره، برای همین توی گیتهاب گذاشتم :)
-
+### Hello EveryBody :)
+Today I wrote a JavaScript code for one of my projects and said that it might be useful for someone, so I put it in GitHub :)
 ![](./Simple.png)
 
-## چطور دراپ داون بسازیم؟
+## How to make a drop down?
 
-در مرحله اول باید کتابخونه رو به پروژه اضافه کنید.
-کافیه فایل **Dropdown.js** رو از اینجا دانلود کنید، توی پوشه پروژه تون بذارید و با تگ اسکریپت به صفحه تون متصلش کنید
+First you need to add the library to the project.
+Just download the file **Dropdown.js** from here, put it in your project folder and attach it to your page with a script script
 
 ```
 <script src="./Dropdown.js"></script>
 ```
 
-حالا کد دراپ داون رو هر جای صفحه که دوست داشتید اضافه کنید و متن هاش رو طبق نیازتون تغییر بدید، میتونید هر تعداد که بخواید آپشن قرار بدید و با **css** شخصی سازیش کنید :)
-
+Now add the drop down code anywhere on the page you like and change the text according to your needs, you can put as many options as you want and customize it with **css** :)
 ```
       <div class="select">
             <div class="front activator" id="activator">
@@ -37,4 +35,4 @@
       </div>
 ```
 
-## **موفق باشید! :)**
+## **Good luck! :)**
