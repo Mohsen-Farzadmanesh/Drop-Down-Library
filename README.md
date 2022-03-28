@@ -34,5 +34,3 @@ Now add the drop down code anywhere on the page you like and change the text acc
             </div>
       </div>
 ```
-
-## **Good luck! :)**
